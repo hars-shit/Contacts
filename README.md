@@ -1,7 +1,7 @@
-#Contact Management API
+Contact Management API
 The Contact Management API allows users to create accounts and manage their contact information. It provides endpoints for user authentication, creating accounts, and performing CRUD operations on contact records.
 
-#Table of Contents
+Table of Contents
 Authentication
 Accounts
 Contacts
